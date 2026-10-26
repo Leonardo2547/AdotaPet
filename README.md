@@ -6,8 +6,8 @@ Aplicativo Android feito como projeto acadêmico para ajudar na divulgação de 
 
 ## Integrantes
 
-- Leonardo Sassi
-- Evelyn Santos
+- Leonardo Sadi Bazi Sassi
+- Evelyn Vitória Cavalheiro dos Santos
 - Lucas Magro
 
 ## Funcionalidades
