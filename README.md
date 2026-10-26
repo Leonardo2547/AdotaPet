@@ -59,4 +59,4 @@ A tela de raças precisa de internet. Para executar os testes unitários, use `.
 
 ## Observação sobre o escopo
 
-O cadastro de animais e os interesses de adoção são armazenados localmente no Room. Esta versão ainda não possui autenticação/login nem cadastro separado de contas de usuários e organizações; esses fluxos devem ser tratados como limitações caso sejam cobrados integralmente no MVP.
+O cadastro de animais e os interesses de adoção são armazenados localmente no Room. Esta versão ainda não possui autenticação/login nem cadastro separado de contas de usuários e organizações;
