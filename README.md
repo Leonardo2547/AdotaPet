@@ -57,6 +57,3 @@ A interface foi feita com Jetpack Compose. As telas recebem os dados e chamam as
 
 A tela de raças precisa de internet. Para executar os testes unitários, use `./gradlew test` no terminal do projeto.
 
-## Observação sobre o escopo
-
-O cadastro de animais e os interesses de adoção são armazenados localmente no Room. Esta versão ainda não possui autenticação/login nem cadastro separado de contas de usuários e organizações;
